@@ -1,0 +1,23 @@
+body{
+    background-color:#A74AC7
+}
+.card{
+    background-color: antiquewhite;
+    border: 2px whitesmoke;
+    border-radius: 2px;
+    width:30%;
+    margin-top:200px;
+    margin-left:450px;
+    text-align: center;
+    padding: auto; 
+}
+.btn{
+    background-color: #177177; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
